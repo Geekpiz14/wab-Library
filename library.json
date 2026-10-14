@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "websites": [
+    {
+      "id": "github",
+      "title": "GitHub",
+      "url": "https://github.com",
+      "description": "코드 저장소와 오픈소스 프로젝트",
+      "thumbnail": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+      "category": "개발",
+      "tags": ["코딩", "오픈소스"]
+    },
+    {
+      "id": "mdn",
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org",
+      "description": "HTML, CSS, JavaScript 공식 문서",
+      "thumbnail": "https://www.google.com/s2/favicons?domain=developer.mozilla.org&sz=128",
+      "category": "학습",
+      "tags": ["웹 개발", "문서"]
+    },
+    {
+      "id": "stackoverflow",
+      "title": "Stack Overflow",
+      "url": "https://stackoverflow.com",
+      "description": "개발 중 막힌 문제를 찾아보는 곳",
+      "thumbnail": "https://www.google.com/s2/favicons?domain=stackoverflow.com&sz=128",
+      "category": "개발",
+      "tags": ["질문", "커뮤니티"]
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "url": "https://www.youtube.com",
+      "description": "영상 강의와 자료를 모아보는 곳",
+      "thumbnail": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+      "category": "영상",
+      "tags": ["강의", "영상"]
+    },
+    {
+      "id": "wikipedia",
+      "title": "위키백과",
+      "url": "https://ko.wikipedia.org",
+      "description": "찾아볼 때 쓰는 온라인 백과사전",
+      "thumbnail": "https://www.google.com/s2/favicons?domain=ko.wikipedia.org&sz=128",
+      "category": "자료",
+      "tags": ["지식", "자료"]
+    }
+  ]
+}
